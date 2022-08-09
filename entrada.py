@@ -1,7 +1,7 @@
 import cv2 as cv
 import os
 
-ruta1= 'C:/Users/msaba/Programas/Visual Studio/reconocimiento facial/Muma'
+ruta1= 'C:/Users/msaba/Programas/Visual Studio/reconocimiento facial/fotos'
 
 if not os.path.exists(ruta1):
     os.mkdir(ruta1)
